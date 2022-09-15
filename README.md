@@ -16,6 +16,7 @@ npm install --legacy-peer-deps
 You can use Metamask plugin for your browser and use Ganache for send coin in your local
 
 [Download Metamask](https://metamask.io/download/)
+
 [Download Ganache](https://www.trufflesuite.com/ganache)
 
 ### Important!
