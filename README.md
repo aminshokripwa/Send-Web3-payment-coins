@@ -42,4 +42,5 @@ In Metamask choose recent user and network
 ## Use it
 After insert address (new ACCOUNT ADDRESS choosed from Ganache) and the amount of coin, Press on PAY NOW, Metamask in your browser ask you question to allow your browser for send money and confirm it, If you confirm it, Coin will be sending to that address.
 ![Image of Project](/helps/05.jpg)
+
 ![Image of Project](/helps/06.jpg)
