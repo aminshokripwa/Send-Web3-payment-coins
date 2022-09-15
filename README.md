@@ -20,28 +20,26 @@ You can use Metamask plugin for your browser and use Ganache for send coin in yo
 
 ### Important!
 
-To run this project connecting to a local chain download Ganache utilize.
-
-Start the ganache blockchain and copy the private key of the desired account.
+Start the Ganache blockchain and (pres on the key icon) copy the private key of the desired account.
 
 ![Image of Project](/helps/01.gif)
 
-Add the local blockchain network in MetaMask by entering the RPC URL and Chain ID
+Open MetaMask and pres on the Add network entering the RPC URL and Chain ID and Currency Symbol
 
 ![Image of Project](/helps/02.jpg)
 ![Image of Project](/helps/03.jpg)
 
-Add new user with private key
+Add (new user) Creat Account with private key
 
-![Image of Project](/helps/04.png)
+![Image of Project](/helps/04.jpg)
 
 In Metamask choose recent user and network
-
-![Image of Project](/helps/05.png)
 
 ## Running the project
 
 `npm start`
 
 ## Use it
-after insert adress and the amount of coin, pres on the send, Metamask in your browser ask you some question to allow your brower to send money and confirm its tracksection, if you confirm it the coin will be send to tat adresss
+After insert address (new ACCOUNT ADDRESS choosed from Ganache) and the amount of coin, Press on PAY NOW, Metamask in your browser ask you question to allow your browser for send money and confirm it, If you confirm it, Coin will be sending to that address.
+![Image of Project](/helps/05.jpg)
+![Image of Project](/helps/06.jpg)
